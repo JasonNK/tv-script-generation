@@ -140,3 +140,9 @@ ENV/
 # Rope project settings
 .ropeproject
 
+preprocess.p
+checkpoint
+params.p
+save.data-00000-of-00001
+save.index
+save.meta
